@@ -1,6 +1,6 @@
 {
   "name": "@tutor-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Elmer <elmerzhai@163.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@tutor-cli/utils": "^1.0.0"
+    "@tutor-cli/utils": "^1.0.1"
   },
   "publishConfig": {
     "access": "public"
